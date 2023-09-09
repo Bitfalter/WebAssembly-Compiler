@@ -1,3 +1,5 @@
+Moved to [kellnr - blog-webassembly-compiler](https://github.com/kellnr/blog-webassembly-compiler)
+
 # WebAssembly Compiler & Runtime
 
 This repo contains the code from the blog post series "WebAssembly".
